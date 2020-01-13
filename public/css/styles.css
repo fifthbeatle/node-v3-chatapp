@@ -196,14 +196,14 @@ button:disabled {
 .message {
     border: 1px solid gray;
     border-radius: 5px;
-    background-color: rgb(214, 213, 235);
+    background-color: rgb(156, 201, 223);
     padding: 0px 5px 0px 5px;
     width: -moz-fit-content;
     width: fit-content
 }
 
 .message.admin {
-    background-color: rgb(128, 118, 128);
-    color: rgb(210, 214, 238);
+    background-color: rgb(115, 151, 168);
+    /* color: rgb(210, 214, 238); */
     font-style: italic;
 }
